@@ -5,14 +5,14 @@ Una aplicación web desarrollada con **Laravel** diseñada para la gestión, cá
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 - **Cálculo en Tiempo Real:** Interfaz intuitiva para procesar y calcular valores actualizados.
 - **Gestión de Datos:** Sistema seguro para el registro y consulta de información.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Backend:** PHP (8.2+) / Laravel (11.x / 12.x)
 - **Base de Datos:** PostgreSQL
@@ -21,7 +21,7 @@ Una aplicación web desarrollada con **Laravel** diseñada para la gestión, cá
 
 ---
 
-## 📦 Requisitos Previos
+## Requisitos Previos
 
 Asegúrate de contar con los siguientes componentes instalados en tu entorno de desarrollo:
 
@@ -31,7 +31,7 @@ Asegúrate de contar con los siguientes componentes instalados en tu entorno de 
 
 ---
 
-## ⚙️ Instalación y Configuración Local
+## Instalación y Configuración Local
 
 Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 
